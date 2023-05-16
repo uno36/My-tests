@@ -1,0 +1,23 @@
+{
+  "name": "my-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uno36/My-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uno36/My-tests/issues"
+  },
+  "homepage": "https://github.com/uno36/My-tests#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
